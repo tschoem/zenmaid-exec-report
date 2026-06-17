@@ -1,4 +1,4 @@
-# C&N Board Sales Dashboard
+# Zenmaid Board Sales Dashboard
 
 This folder includes a repeatable dashboard generator for board meetings.
 
